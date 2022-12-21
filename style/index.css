@@ -1,1 +1,13 @@
 /* Add CSS styling here */
+
+header {
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 15px;
+}
+
+footer {
+    background-color: blueviolet;
+    text-align: center;
+    padding: 20px;
+}
